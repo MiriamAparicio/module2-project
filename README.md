@@ -75,7 +75,8 @@ views
       event-card-partial.hbs
 
 
-
+# Try app
+[Project 2](https://ironhackproject2.herokuapp.com/)
   
   
 
